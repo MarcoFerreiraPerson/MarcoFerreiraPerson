@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in building shit that I feel like at the moment
-- 🌱 I’m currently learning google api shit and machine learning
+- 🌱 I’m currently looking into building applications for college students
 - 💞️ I’m looking to collaborate on anything that gets me to learn more.
 - 📫 How to reach me:
--   Discord: maroc#1452
+-   Discord: _maroc
 -   Email: marcoferreiraperson@gmail.com
 
 <!---
