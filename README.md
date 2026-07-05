@@ -29,7 +29,7 @@ I'm a Computer Science student at Rutgers University and a Software Engineer int
 
 ## Connect With Me
 
-- LinkedIn: [Marco Ferreira](https://www.linkedin.com/in/marco-ferreira)
+- LinkedIn: [Marco Ferreira](www.linkedin.com/in/marco-ferreira-b270a3251)
 - Email: marco.a.ferreira.dev@gmail.com
 
 Thanks for visiting!
